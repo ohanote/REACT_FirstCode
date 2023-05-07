@@ -1,5 +1,6 @@
 {
   "name": "react-vite",
+  "homepage": "REACT_FirstCode/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
